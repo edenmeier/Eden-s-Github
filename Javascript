@@ -1,0 +1,21 @@
+
+<html>
+
+<head></head>
+
+<body>
+
+<script>
+
+
+var name="Eden";
+var year=2018;
+
+var name= prompt("Enter your name");
+document.write("Hello, " + name);
+
+
+</script>
+
+</body>
+</html>
